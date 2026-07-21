@@ -59,3 +59,10 @@ Para probar si se ha instalado correctamente, ejecuta:
 ```
 $ python -m tox
 ```
+
+---
+
+## 📚 Fuentes y Referencias
+
+* **Documentación oficial de SimPy:** [SimPy Documentation - PyPI](https://pypi.org/project/simpy/)
+* **Documentación sobre Simulación de Eventos Discretos:** [SimPy Read the Docs](https://simpy.readthedocs.io/)
